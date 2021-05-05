@@ -1,6 +1,6 @@
 # THIS IS MY PRACTICE WITH GIT
 
->THis is practice of GIT
->This is a second line
->Still another line
->Done 
+THis is practice of GIT <br />
+This is a second line <br />
+Still another line <br />
+Done <br />
