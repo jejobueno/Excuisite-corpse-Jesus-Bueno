@@ -4,3 +4,7 @@ THis is practice of GIT <br />
 This is a second line <br />
 Still another line <br />
 Done <br />
+
+I'm just another user <br />
+Trying some **markdown** <br />
+Without makinge a ~~mess~~ <br />
