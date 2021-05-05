@@ -8,3 +8,8 @@ Done <br />
 I'm just another user <br />
 Trying some **markdown** <br />
 Without makinge a ~~mess~~ <br />
+  
+> You can also do blockquotes
+> It's very cool
+> Try it out !  
+
