@@ -18,9 +18,9 @@ Without makinge a ~~mess~~
 **With different styles.**
 >Hello Jesus!
 ========
-I am another user 
+I am another user
 
-Writing some lines 
+Writing some lines
 
 third line
 =======
@@ -29,3 +29,9 @@ third line
 - ```[]()``` this will make you a link - brackets for a link itself, square for a visible name
 - and 3 dashes give you a line
 ---
+
+ ---
+> blockquotes are nice indeed
+>> - Especially with a list
+>> - What would be a list without more than one element
+ ---
