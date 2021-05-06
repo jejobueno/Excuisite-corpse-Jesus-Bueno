@@ -1,14 +1,14 @@
 # THIS IS MY PRACTICE WITH GIT
 
-THis is practice of GIT <br />
-This is a second line <br />
-Still another line <br />
-Done <br />
+##This is practice of GIT
 
-I'm just another user <br />
-Trying some **markdown** <br />
-Without makinge a ~~mess~~ <br />
-  
+*This is a second line*
+Still another line.
+
+I'm just another user
+Trying some **markdown**
+Without makinge a ~~mess~~
+
 > You can also do blockquotes  
 > It's very cool  
 > Try it out !  
