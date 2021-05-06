@@ -18,6 +18,7 @@ Without makinge a ~~mess~~
 **With different styles.**
 >Hello Jesus!
 
+<<<<<<< HEAD
 
 
 I am another user 
@@ -25,3 +26,11 @@ I am another user
 Writing some lines 
 
 third line
+=======
+- dash will become a bullet
+- [makrdown cheat sheet](https://www.markdownguide.org/cheat-sheet/) 
+- ```[]()``` this will make you a link - brackets for a link itself, square for a visible name
+- and 3 dashes give you a line
+---
+
+>>>>>>> 75d9b89921412b8e8dfde3e596cf348855e2bc99
