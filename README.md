@@ -24,3 +24,8 @@ Without makinge a ~~mess~~
 - and 3 dashes give you a line
 ---
 
+ ---
+> blockquotes are nice indeed
+>> - Especially with a list
+>> - What would be a list without more than one element
+ ---
