@@ -8,7 +8,7 @@ Still another line.
   
 I'm just another user  
 Trying some **markdown**  
-Without makinge a ~~mess~~  
+Without making a ~~mess~~  
   
 > You can also do blockquotes  
 > It's very cool  
