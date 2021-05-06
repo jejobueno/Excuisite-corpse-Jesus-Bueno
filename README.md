@@ -20,7 +20,7 @@ Without makinge a ~~mess~~
 
 - dash will become a bullet
 - [makrdown cheat sheet](https://www.markdownguide.org/cheat-sheet/) 
-- []() this will make you a link - brackets for a link itself, square for a visible name
+- ```[]()``` this will make you a link - brackets for a link itself, square for a visible name
 - and 3 dashes give you a line
 ---
 
