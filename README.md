@@ -19,7 +19,7 @@ Without makinge a ~~mess~~
 >Hello Jesus!
 
 - dash will become a bullet
-[makrdown cheat sheet] (https://www.markdownguide.org/cheat-sheet/) 
+- [makrdown cheat sheet](https://www.markdownguide.org/cheat-sheet/) 
 - []() this will make you a link - brackets for a link itself, square for a visible name
 - and 3 dashes give you a line
 ---
