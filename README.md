@@ -13,3 +13,7 @@ Without makinge a ~~mess~~
 > You can also do blockquotes  
 > It's very cool  
 > Try it out !  
+
+*Adding random sentences*
+**With different styles.**
+>Hello Jesus!
